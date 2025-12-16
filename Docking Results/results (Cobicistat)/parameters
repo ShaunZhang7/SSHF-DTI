@@ -1,0 +1,7 @@
+Date: Fri 18 Jul 2025 05:16:56 
+Ligand: CC(C)C1=NC(CN(C)C(=O)N[C@@H](CCN2CCOCC2)C(=O)N[C@H](CC[C@H](CC2=CC=CC=C2)NC(=O)OCC2=CN=CS2)CC2=CC=CC=C2)=CS1
+Method: Vina
+Target: 5r7y.pdb
+Sampling exhaustivity: 1
+Box size: 30 30 29
+Box center: 12.0 16.0 -11.0
